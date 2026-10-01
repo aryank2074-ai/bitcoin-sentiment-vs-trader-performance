@@ -95,7 +95,7 @@ Load Data → Inspect & Clean → Convert Dates → Extract Trade Date
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/bitcoin-sentiment-vs-trader-performance.git
+git clone https://github.com/<aryank2074-a>/bitcoin-sentiment-vs-trader-performance.git
 cd bitcoin-sentiment-vs-trader-performance
 
 # 2. Install dependencies
